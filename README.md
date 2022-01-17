@@ -9,7 +9,6 @@
 
  ## Implementacija
  * RecyclerView
- * ListView
  * Toast message
  * Room Database
  * JSON data
