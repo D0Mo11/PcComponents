@@ -1,0 +1,153 @@
+[
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "iCue 5000X",
+   "Rank": 1,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Cases/Mid-Tower-ATX-Cases/iCUE-5000X-RGB-Tempered-Glass-Mid-Tower-ATX-PC-Smart-Case/p/CC-9011213-WW"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Fractal Design ",
+   "Model": "Meshify-C",
+   "Rank": 2,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.fractal-design.com/products/cases/meshify/meshify-c/black/"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Nanoxia",
+   "Model": "Deep Silence 4",
+   "Rank": 3,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.nanoxiausa.com/products/deep-silence-4-micro-atx-case-black"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "NZXT",
+   "Model": "H200i",
+   "Rank": 4,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.pcgamesn.com/nzxt-h200i-review-performance"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Phanteks",
+   "Model": "Evolv Shift X",
+   "Rank": 5,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "http://www.phanteks.com/Enthoo-Evolv-Shift-X.html"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Fractal Design",
+   "Model": "Define R5",
+   "Rank": 6,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.fractal-design.com/products/cases/define/define-r5/black/"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Cooler Master",
+   "Model": "H500P Mesh",
+   "Rank": 7,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.coolermaster.com/catalog/legacy-products/cases/mastercase-h500p-mesh-white/"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "Carbide Series SPEC-04 Tempered Glass",
+   "Rank": 8,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/ww/en/Categories/Products/Cases/Carbide-Series%C2%AE-SPEC-04-Tempered-Glass-Mid-Tower-Gaming-Case-%E2%80%94-Black-Red/p/CC-9011117-WW"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Razer",
+   "Model": "Antec Cube",
+   "Rank": 9,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.antec.com/product/case/cube-razer"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Phanteks",
+   "Model": "Evolv X",
+   "Rank": 10,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.phanteks.com/Enthoo-Evolv-X.html"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Lian Li",
+   "Model": "Lancool II Mesh",
+   "Rank": 11,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://lian-li.com/product/lancool-ii-mesh-rgb/"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Phanteks",
+   "Model": "Eclipse P360A",
+   "Rank": 12,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.phanteks.com/Eclipse-P360A.html"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "Obsidian Series 4000X RGB",
+   "Rank": 13,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Cases/Mid-Tower-ATX-Cases/iCUE-4000X-RGB-Tempered-Glass-Mid-Tower-ATX-Case/p/CC-9011204-WW"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "Cooler Master",
+   "Model": "Silencio S400",
+   "Rank": 14,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.coolermaster.com/catalog/cases/mini-tower/silencio-s400/"
+ },
+ {
+   "Type": "Case",
+   "Part Number": "",
+   "Brand": "be quiet!",
+   "Model": "Dark Base 700",
+   "Rank": 15,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.bequiet.com/en/case/dark-base/771"
+ }
+ ]
+ 

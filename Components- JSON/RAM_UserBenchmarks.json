@@ -1,0 +1,1742 @@
+[
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C14Q2-128GRK",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 2400 C14 8x16GB",
+   "Rank": 1,
+   "Benchmark": 122,
+   "Samples": 51,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2400-C14-8x16GB/Rating/3567"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C14Q-64GTZ",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3200 C14 4x16GB",
+   "Rank": 2,
+   "Benchmark": 111,
+   "Samples": 1031,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C14-4x16GB/Rating/3612"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS4K8G4D240FSA",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR4 2400 C16 8x4GB",
+   "Rank": 3,
+   "Benchmark": 110,
+   "Samples": 112,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/93395/Crucial-BLS4G4D240FSAM8FAD-8x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLE4K8G4D36BEEAK",
+   "Brand": "Crucial",
+   "Model": "Ballistix Elite DDR4 3600 C16 4x8GB",
+   "Rank": 4,
+   "Benchmark": 108,
+   "Samples": 921,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/811381/Crucial-BLE8G4D36BEEAKM8FE1-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C14Q-32GFX",
+   "Brand": "G.SKILL",
+   "Model": "Flare X DDR4 3200 C14 4x8GB",
+   "Rank": 5,
+   "Benchmark": 107,
+   "Samples": 5854,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/270794/GSKILL-F4-3200C14-8GFX-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C15Q-64GTZ",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3200 C15 4x16GB",
+   "Rank": 6,
+   "Benchmark": 103,
+   "Samples": 190,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C15-4x16GB/Rating/3613"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMD64GX4M4B3000C15",
+   "Brand": "Corsair",
+   "Model": "Dominator DDR4 3000 C15 4x16GB",
+   "Rank": 7,
+   "Benchmark": 101,
+   "Samples": 116,
+   "URL": "https://ram.userbenchmark.com/Corsair-Dominator-DDR4-3000-C15-4x16GB/Rating/3565"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3600C16D-16GTZ",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3600 C16 2x8GB",
+   "Rank": 8,
+   "Benchmark": 98.8,
+   "Samples": 2910,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3600-C16-2x8GB/Rating/3562"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C14D-16GFX",
+   "Brand": "G.SKILL",
+   "Model": "Flare X DDR4 3200 C14 2x8GB",
+   "Rank": 9,
+   "Benchmark": 97.8,
+   "Samples": 38158,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/255366/GSKILL-F4-3200C14-8GFX-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M2Z3600C18",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3600 C18 2x16GB",
+   "Rank": 10,
+   "Benchmark": 97.6,
+   "Samples": 5296,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/998434/Corsair-Vengeance-LPX-CMK32GX4M2Z3600C18-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS4K4G4D240FSA",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR4 2400 C16 4x4GB",
+   "Rank": 11,
+   "Benchmark": 97.2,
+   "Samples": 1783,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-DDR4-2400-C16-4x4GB/Rating/3561"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3600C17D-16GTZ",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3600 C17 2x8GB",
+   "Rank": 12,
+   "Benchmark": 95.8,
+   "Samples": 1392,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3600-C17-2x8GB/Rating/3563"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLE2K8G4D36BEEAK",
+   "Brand": "Crucial",
+   "Model": "Ballistix Elite DDR4 3600 C16 2x8GB",
+   "Rank": 13,
+   "Benchmark": 95.2,
+   "Samples": 2073,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/786050/Crucial-BLE8G4D36BEEAKM8FE1-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2666C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C15 4x8GB",
+   "Rank": 14,
+   "Benchmark": 95,
+   "Samples": 736,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89347/Corsair-Vengeance-LPX-CMK32GX4M4A2666C15-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3000C15Q-16GRR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 3000 C15 4x4GB",
+   "Rank": 15,
+   "Benchmark": 94.4,
+   "Samples": 2813,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-3000-C15-4x4GB/Rating/3540"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3000C15Q-16GRB",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 3000 C15 4x4GB",
+   "Rank": 15,
+   "Benchmark": 94.4,
+   "Samples": 2813,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-3000-C15-4x4GB/Rating/3540"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3000C15Q-16GRK",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 3000 C15 4x4GB",
+   "Rank": 15,
+   "Benchmark": 94.4,
+   "Samples": 2813,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-3000-C15-4x4GB/Rating/3540"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C16Q-64GVK",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 3200 C16 4x16GB",
+   "Rank": 16,
+   "Benchmark": 93.9,
+   "Samples": 10339,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-3200-C16-4x16GB/Rating/3564"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C15FBK4/32",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2666 C15 4x8GB",
+   "Rank": 17,
+   "Benchmark": 92.1,
+   "Samples": 5208,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2666-C15-4x8GB/Rating/3570"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2C3466C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3466 C16 2x8GB",
+   "Rank": 18,
+   "Benchmark": 91.5,
+   "Samples": 4065,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/287318/Corsair-CMR16GX4M2C3466C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2800C16Q-16GRR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 2800 C16 4x4GB",
+   "Rank": 19,
+   "Benchmark": 91.3,
+   "Samples": 1379,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2800-C16-4x4GB/Rating/3608"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2800C16Q-16GRB",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 2800 C16 4x4GB",
+   "Rank": 19,
+   "Benchmark": 91.3,
+   "Samples": 1379,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2800-C16-4x4GB/Rating/3608"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2800C16Q-16GRK",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 2800 C16 4x4GB",
+   "Rank": 19,
+   "Benchmark": 91.3,
+   "Samples": 1379,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2800-C16-4x4GB/Rating/3608"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3600C17D-8GTZ",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3600 C17 2x4GB",
+   "Rank": 20,
+   "Benchmark": 91.2,
+   "Samples": 146,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3600-C17-2x4GB/Rating/3566"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4B3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 4x4GB",
+   "Rank": 21,
+   "Benchmark": 91.1,
+   "Samples": 5536,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-4x4GB/Rating/3558"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4B3000C15B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 4x4GB",
+   "Rank": 21,
+   "Benchmark": 91.1,
+   "Samples": 5536,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-4x4GB/Rating/3558"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4B3000C15R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 4x4GB",
+   "Rank": 21,
+   "Benchmark": 91.1,
+   "Samples": 5536,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-4x4GB/Rating/3558"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M2B3200C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3200 C16 2x16GB",
+   "Rank": 22,
+   "Benchmark": 89.4,
+   "Samples": 88320,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/97244/Corsair-Vengeance-LPX-CMK32GX4M2B3200C16-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2C3600C18",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3600 C18 2x8GB",
+   "Rank": 23,
+   "Benchmark": 89.1,
+   "Samples": 4206,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/315553/Corsair-CMR16GX4M2C3600C18-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x4GB",
+   "Rank": 24,
+   "Benchmark": 89,
+   "Samples": 5543,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x4GB/Rating/3557"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2666C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x4GB",
+   "Rank": 24,
+   "Benchmark": 89,
+   "Samples": 5543,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x4GB/Rating/3557"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2666C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x4GB",
+   "Rank": 24,
+   "Benchmark": 89,
+   "Samples": 5543,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x4GB/Rating/3557"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2800C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2800 C16 4x4GB",
+   "Rank": 25,
+   "Benchmark": 88.7,
+   "Samples": 3458,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2800-C16-4x4GB/Rating/3541"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2800C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2800 C16 4x4GB",
+   "Rank": 25,
+   "Benchmark": 88.7,
+   "Samples": 3458,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2800-C16-4x4GB/Rating/3541"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2800C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2800 C16 4x4GB",
+   "Rank": 25,
+   "Benchmark": 88.7,
+   "Samples": 3458,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2800-C16-4x4GB/Rating/3541"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMW32GX4M2C3200C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB PRO DDR4 3200 C16 2x16GB",
+   "Rank": 26,
+   "Benchmark": 88.3,
+   "Samples": 99287,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/587593/Corsair-CMW32GX4M2C3200C16-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2D3600C18",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3600 C18 2x8GB",
+   "Rank": 27,
+   "Benchmark": 88,
+   "Samples": 44466,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/808862/Corsair-Vengeance-LPX-CMK16GX4M2D3600C18-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR32GX4M2C3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3000 C15 2x16GB",
+   "Rank": 28,
+   "Benchmark": 87.9,
+   "Samples": 808,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/335632/Corsair-CMR32GX4M2C3000C15-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C16D-16GTZB",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3200 C16 2x8GB",
+   "Rank": 29,
+   "Benchmark": 87.4,
+   "Samples": 26062,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C16-2x8GB/Rating/3550"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2C3200C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3200 C16 2x8GB",
+   "Rank": 30,
+   "Benchmark": 87.2,
+   "Samples": 12230,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/298180/Corsair-CMR16GX4M2C3200C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x8GB",
+   "Rank": 31,
+   "Benchmark": 86.5,
+   "Samples": 6968,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x8GB/Rating/3586"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2666C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x8GB",
+   "Rank": 31,
+   "Benchmark": 86.5,
+   "Samples": 6968,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x8GB/Rating/3586"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2666C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 4x8GB",
+   "Rank": 31,
+   "Benchmark": 86.5,
+   "Samples": 6968,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-4x8GB/Rating/3586"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x8GB",
+   "Rank": 32,
+   "Benchmark": 85.5,
+   "Samples": 3965,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x8GB/Rating/3542"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2400C14B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x8GB",
+   "Rank": 32,
+   "Benchmark": 85.5,
+   "Samples": 3965,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x8GB/Rating/3542"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2400C14R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x8GB",
+   "Rank": 32,
+   "Benchmark": 85.5,
+   "Samples": 3965,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x8GB/Rating/3542"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M4A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 4x8GB",
+   "Rank": 33,
+   "Benchmark": 85.3,
+   "Samples": 1278,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/108268/Corsair-Vengeance-LPX-CMK32GX4M4A2400C16-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M2B3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x16GB",
+   "Rank": 34,
+   "Benchmark": 85.2,
+   "Samples": 28066,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/92054/Corsair-Vengeance-LPX-CMK32GX4M2B3000C15-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C16D-16GVKB",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 3200 C16 2x8GB",
+   "Rank": 35,
+   "Benchmark": 85,
+   "Samples": 235010,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89324/GSKILL-F4-3200C16-8GVKB-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3200C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3200 C16 2x8GB",
+   "Rank": 36,
+   "Benchmark": 84.7,
+   "Samples": 466535,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3200-C16-2x8GB/Rating/3547"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3200C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3200 C16 2x8GB",
+   "Rank": 36,
+   "Benchmark": 84.7,
+   "Samples": 466535,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3200-C16-2x8GB/Rating/3547"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C15FBK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2666 C15 2x8GB",
+   "Rank": 37,
+   "Benchmark": 84.7,
+   "Samples": 28297,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2666-C15-2x8GB/Rating/3553"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3200C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3200 C16 2x8GB",
+   "Rank": 38,
+   "Benchmark": 84.7,
+   "Samples": 27268,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/155727/Corsair-CMU16GX4M2C3200C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3200C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3200 C16 2x8GB",
+   "Rank": 38,
+   "Benchmark": 84.7,
+   "Samples": 27268,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/155727/Corsair-CMU16GX4M2C3200C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3200C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3200 C16 2x8GB",
+   "Rank": 38,
+   "Benchmark": 84.7,
+   "Samples": 27268,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/155727/Corsair-CMU16GX4M2C3200C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3000C15D-16GTZB",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z DDR4 3000 C15 2x8GB",
+   "Rank": 39,
+   "Benchmark": 84.6,
+   "Samples": 5565,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3000-C15-2x8GB/Rating/3548"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x4GB",
+   "Rank": 40,
+   "Benchmark": 84.5,
+   "Samples": 3397,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x4GB/Rating/3533"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2400C14B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x4GB",
+   "Rank": 40,
+   "Benchmark": 84.5,
+   "Samples": 3397,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x4GB/Rating/3533"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2400C14R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 4x4GB",
+   "Rank": 40,
+   "Benchmark": 84.5,
+   "Samples": 3397,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-4x4GB/Rating/3533"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3200C16D-16GTZR",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z RGB DDR4 3200 C16 2x8GB",
+   "Rank": 41,
+   "Benchmark": 84.2,
+   "Samples": 194214,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/231020/GSKILL-F4-3200C16-8GTZR-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMD16GX4M2B3000C15",
+   "Brand": "Corsair",
+   "Model": "Dominator DDR4 3000 C15 2x8GB",
+   "Rank": 42,
+   "Benchmark": 83.7,
+   "Samples": 11351,
+   "URL": "https://ram.userbenchmark.com/Corsair-Dominator-DDR4-3000-C15-2x8GB/Rating/3597"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x8GB",
+   "Rank": 43,
+   "Benchmark": 83,
+   "Samples": 490786,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3000C15B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x8GB",
+   "Rank": 43,
+   "Benchmark": 83,
+   "Samples": 490786,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3000C15R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x8GB",
+   "Rank": 43,
+   "Benchmark": 83,
+   "Samples": 490786,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2B3000C15W",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x8GB",
+   "Rank": 43,
+   "Benchmark": 83,
+   "Samples": 490786,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX424C15FBK4/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2400 C15 4x4GB",
+   "Rank": 44,
+   "Benchmark": 83,
+   "Samples": 8790,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2400-C15-4x4GB/Rating/3585"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C15FBK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2666 C15 2x4GB",
+   "Rank": 45,
+   "Benchmark": 82.9,
+   "Samples": 27285,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2666-C15-2x4GB/Rating/3556"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C13PB3K2/16",
+   "Brand": "HyperX",
+   "Model": "Predator 2666 C13 2x8GB",
+   "Rank": 46,
+   "Benchmark": 82.3,
+   "Samples": 5834,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/318273/Kingston-KHX2666C138GX-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3000 C15 2x8GB",
+   "Rank": 47,
+   "Benchmark": 82.3,
+   "Samples": 38785,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/156965/Corsair-CMU16GX4M2C3000C15-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3000C15B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3000 C15 2x8GB",
+   "Rank": 47,
+   "Benchmark": 82.3,
+   "Samples": 38785,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/156965/Corsair-CMU16GX4M2C3000C15-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2C3000C15R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 3000 C15 2x8GB",
+   "Rank": 47,
+   "Benchmark": 82.3,
+   "Samples": 38785,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/156965/Corsair-CMU16GX4M2C3000C15-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMZ64GX3M8A1600C9",
+   "Brand": "Corsair",
+   "Model": "Vengeance DDR3 1600 C9 8x8GB",
+   "Rank": 48,
+   "Benchmark": 82,
+   "Samples": 84,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/100478/Corsair-Vengeance-CMZ64GX3M8A1600C9-8x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX421C14FBK4/32",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2133 C14 4x8GB",
+   "Rank": 49,
+   "Benchmark": 81.7,
+   "Samples": 4686,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2133-C14-4x8GB/Rating/3569"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2D3000C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3000 C16 2x8GB",
+   "Rank": 50,
+   "Benchmark": 81.6,
+   "Samples": 6561,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/465040/Corsair-CMR16GX4M2D3000C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2C3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 3000 C15 2x8GB",
+   "Rank": 51,
+   "Benchmark": 81.5,
+   "Samples": 31802,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/258851/Corsair-CMR16GX4M2C3000C15-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-3000C16D-16GTZR",
+   "Brand": "G.SKILL",
+   "Model": "Trident Z RGB DDR4 3000 C16 2x8GB",
+   "Rank": 52,
+   "Benchmark": 81.3,
+   "Samples": 68883,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/236585/GSKILL-F4-3000C16-8GTZR-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2C3000C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C16 2x8GB",
+   "Rank": 53,
+   "Benchmark": 81,
+   "Samples": 4204,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/337520/Corsair-Vengeance-LPX-CMK16GX4M2C3000C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2C3000C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C16 2x8GB",
+   "Rank": 53,
+   "Benchmark": 81,
+   "Samples": 4204,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/337520/Corsair-Vengeance-LPX-CMK16GX4M2C3000C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2C3000C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C16 2x8GB",
+   "Rank": 53,
+   "Benchmark": 81,
+   "Samples": 4204,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/337520/Corsair-Vengeance-LPX-CMK16GX4M2C3000C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2C3000C16W",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C16 2x8GB",
+   "Rank": 53,
+   "Benchmark": 81,
+   "Samples": 4204,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/337520/Corsair-Vengeance-LPX-CMK16GX4M2C3000C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMW16GX4M2C3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB PRO DDR4 3200 C15 2x8GB",
+   "Rank": 54,
+   "Benchmark": 80.8,
+   "Samples": 72495,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/523893/Corsair-CMW16GX4M2C3000C15-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M2B3000C15",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 3000 C15 2x4GB",
+   "Rank": 55,
+   "Benchmark": 80.8,
+   "Samples": 21513,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/90523/Corsair-Vengeance-LPX-CMK8GX4M2B3000C15-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M4A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 4x4GB",
+   "Rank": 56,
+   "Benchmark": 80.7,
+   "Samples": 450,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89553/Corsair-Vengeance-LPX-CMK16GX4M4A2400C16-4x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C16FB2K2/16",
+   "Brand": "HyperX",
+   "Model": "Fury 2666 C16 2x8GB",
+   "Rank": 57,
+   "Benchmark": 80.3,
+   "Samples": 109735,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/272118/Kingston-KHX2666C168G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C16FW2K2/16",
+   "Brand": "HyperX",
+   "Model": "Fury 2666 C16 2x8GB",
+   "Rank": 57,
+   "Benchmark": 80.3,
+   "Samples": 109735,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/272118/Kingston-KHX2666C168G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX426C16FR2K2/16",
+   "Brand": "HyperX",
+   "Model": "Fury 2666 C16 2x8GB",
+   "Rank": 57,
+   "Benchmark": 80.3,
+   "Samples": 109735,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/272118/Kingston-KHX2666C168G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS4K8G4D240FSB",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 4x8GB",
+   "Rank": 58,
+   "Benchmark": 79.6,
+   "Samples": 575,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-4x8GB/Rating/3637"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS4K8G4D240FSC",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 4x8GB",
+   "Rank": 58,
+   "Benchmark": 79.6,
+   "Samples": 575,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-4x8GB/Rating/3637"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS4K8G4D240FSE",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 4x8GB",
+   "Rank": 58,
+   "Benchmark": 79.6,
+   "Samples": 575,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-4x8GB/Rating/3637"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 2x8GB",
+   "Rank": 59,
+   "Benchmark": 77.8,
+   "Samples": 99627,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-2x8GB/Rating/3545"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2666C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 2x8GB",
+   "Rank": 59,
+   "Benchmark": 77.8,
+   "Samples": 99627,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2666-C16-2x8GB/Rating/3545"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX424C15FBK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2400 C15 2x8GB",
+   "Rank": 60,
+   "Benchmark": 77.8,
+   "Samples": 18679,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2400-C15-2x8GB/Rating/3587"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15Q-32GVR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 4x8GB",
+   "Rank": 61,
+   "Benchmark": 77.5,
+   "Samples": 5546,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-4x8GB/Rating/3568"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M2A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 2x4GB",
+   "Rank": 62,
+   "Benchmark": 76.9,
+   "Samples": 15551,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/90467/Corsair-Vengeance-LPX-CMK8GX4M2A2666C16-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2K8G4D240FSA",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR4 2400 C16 2x8GB",
+   "Rank": 63,
+   "Benchmark": 76.2,
+   "Samples": 3352,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-DDR4-2400-C16-2x8GB/Rating/3611"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2K8G4D240FSB",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 2x8GB",
+   "Rank": 64,
+   "Benchmark": 76.2,
+   "Samples": 7404,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-2x8GB/Rating/3638"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2K8G4D240FSC",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 2x8GB",
+   "Rank": 64,
+   "Benchmark": 76.2,
+   "Samples": 7404,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-2x8GB/Rating/3638"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2K8G4D240FSE",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 2x8GB",
+   "Rank": 64,
+   "Benchmark": 76.2,
+   "Samples": 7404,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-LT-DDR4-2400-C16-2x8GB/Rating/3638"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M2A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2666 C16 2x16GB",
+   "Rank": 65,
+   "Benchmark": 76,
+   "Samples": 20024,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/92488/Corsair-Vengeance-LPX-CMK32GX4M2A2666C16-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK32GX4M2A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 2x16GB",
+   "Rank": 66,
+   "Benchmark": 75.9,
+   "Samples": 6311,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/131225/Corsair-Vengeance-LPX-CMK32GX4M2A2400C16-2x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMR16GX4M2A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance RGB DDR4 2666 C16 2x8GB",
+   "Rank": 67,
+   "Benchmark": 75.9,
+   "Samples": 8199,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/282283/Corsair-CMR16GX4M2A2666C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 2x8GB",
+   "Rank": 68,
+   "Benchmark": 74.6,
+   "Samples": 92893,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/92730/Corsair-Vengeance-LPX-CMK16GX4M2A2400C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2666C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2666 C16 2x8GB",
+   "Rank": 69,
+   "Benchmark": 74.5,
+   "Samples": 11579,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/152975/Corsair-CMU16GX4M2A2666C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2666C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2666 C16 2x8GB",
+   "Rank": 69,
+   "Benchmark": 74.5,
+   "Samples": 11579,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/152975/Corsair-CMU16GX4M2A2666C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2666C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2666 C16 2x8GB",
+   "Rank": 69,
+   "Benchmark": 74.5,
+   "Samples": 11579,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/152975/Corsair-CMU16GX4M2A2666C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M2A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 2x4GB",
+   "Rank": 70,
+   "Benchmark": 74.2,
+   "Samples": 7648,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/105361/Corsair-Vengeance-LPX-CMK8GX4M2A2400C16-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2400 C16 2x8GB",
+   "Rank": 71,
+   "Benchmark": 73.3,
+   "Samples": 2548,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/293029/Corsair-CMU16GX4M2A2400C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2400C16B",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2400 C16 2x8GB",
+   "Rank": 71,
+   "Benchmark": 73.3,
+   "Samples": 2548,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/293029/Corsair-CMU16GX4M2A2400C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMU16GX4M2A2400C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LED DDR4 2400 C16 2x8GB",
+   "Rank": 71,
+   "Benchmark": 73.3,
+   "Samples": 2548,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/293029/Corsair-CMU16GX4M2A2400C16-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-2400C10Q-32GTX",
+   "Brand": "G.SKILL",
+   "Model": "TridentX DDR3 2400 C10 4x8GB",
+   "Rank": 72,
+   "Benchmark": 73.3,
+   "Samples": 4692,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89345/GSKILL-F3-2400C10-8GTX-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-8GVR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x4GB",
+   "Rank": 73,
+   "Benchmark": 72.7,
+   "Samples": 15834,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x4GB/Rating/3559"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 2x8GB",
+   "Rank": 74,
+   "Benchmark": 72.4,
+   "Samples": 53724,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-2x8GB/Rating/3544"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2400C14R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 2x8GB",
+   "Rank": 74,
+   "Benchmark": 72.4,
+   "Samples": 53724,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C14-2x8GB/Rating/3544"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GRR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws 4 DDR4 2400 C15 2x8GB",
+   "Rank": 75,
+   "Benchmark": 72.2,
+   "Samples": 5197,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2400-C15-2x8GB/Rating/3551"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX421C14FBK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2133 C14 2x8GB",
+   "Rank": 76,
+   "Benchmark": 71.5,
+   "Samples": 53822,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2133-C14-2x8GB/Rating/3552"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX421C14FB2K2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2133 C14 2x8GB",
+   "Rank": 76,
+   "Benchmark": 71.5,
+   "Samples": 53822,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2133-C14-2x8GB/Rating/3552"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GVR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x8GB",
+   "Rank": 77,
+   "Benchmark": 71,
+   "Samples": 92802,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x8GB/Rating/3549"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GVB",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x8GB",
+   "Rank": 77,
+   "Benchmark": 71,
+   "Samples": 92802,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x8GB/Rating/3549"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GVK",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x8GB",
+   "Rank": 77,
+   "Benchmark": 71,
+   "Samples": 92802,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x8GB/Rating/3549"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GVS",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x8GB",
+   "Rank": 77,
+   "Benchmark": 71,
+   "Samples": 92802,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x8GB/Rating/3549"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2400C15D-16GVG",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2400 C15 2x8GB",
+   "Rank": 77,
+   "Benchmark": 71,
+   "Samples": 92802,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2400-C15-2x8GB/Rating/3549"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M2A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 2x4GB",
+   "Rank": 78,
+   "Benchmark": 71,
+   "Samples": 14215,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89740/Corsair-Vengeance-LPX-CMK8GX4M2A2400C14-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2133C15D-32GVR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2133 C15 2x16GB",
+   "Rank": 79,
+   "Benchmark": 70.7,
+   "Samples": 2178,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2133-C15-2x16GB/Rating/3633"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX421C14FBK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2133 C14 2x4GB",
+   "Rank": 80,
+   "Benchmark": 69.7,
+   "Samples": 39559,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2133-C14-2x4GB/Rating/3554"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2133C13",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2133 C13 2x8GB",
+   "Rank": 81,
+   "Benchmark": 69.4,
+   "Samples": 39050,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2133-C13-2x8GB/Rating/3543"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK16GX4M2A2133C13R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2133 C13 2x8GB",
+   "Rank": 81,
+   "Benchmark": 69.4,
+   "Samples": 39050,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2133-C13-2x8GB/Rating/3543"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2133C15D-8GVR",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2133 C15 2x4GB",
+   "Rank": 82,
+   "Benchmark": 69.1,
+   "Samples": 6913,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2133-C15-2x4GB/Rating/3560"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2K4G4D240FSA",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR4 2400 C16 2x4GB",
+   "Rank": 83,
+   "Benchmark": 67.8,
+   "Samples": 781,
+   "URL": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-DDR4-2400-C16-2x4GB/Rating/3601"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2133C15D-16GVB",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws V DDR4 2133 C15 2x8GB",
+   "Rank": 84,
+   "Benchmark": 67.7,
+   "Samples": 13893,
+   "URL": "https://ram.userbenchmark.com/GSKILL-Ripjaws-V-DDR4-2133-C15-2x8GB/Rating/3632"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-2400C10D-16GTX",
+   "Brand": "G.SKILL",
+   "Model": "TridentX DDR3 2400 C10 2x8GB",
+   "Rank": 85,
+   "Benchmark": 66.6,
+   "Samples": 21724,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89322/GSKILL-F3-2400C10-8GTX-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX324C11SRK2/16",
+   "Brand": "HyperX",
+   "Model": "Savage DDR3 2400 C11 2x8GB",
+   "Rank": 86,
+   "Benchmark": 64.4,
+   "Samples": 18372,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/43621/Kingston-KHX2400C11D38GX-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMY16GX3M2A2400C11",
+   "Brand": "Corsair",
+   "Model": "Vengeance Pro DDR3 2400 C11 2x8GB",
+   "Rank": 87,
+   "Benchmark": 60.4,
+   "Samples": 35968,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89568/Corsair-Vengeance-Pro-CMY16GX3M2A2400C11-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x8GB",
+   "Rank": 88,
+   "Benchmark": 58.4,
+   "Samples": 81080,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42962/Kingston-KHX1866C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FBK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x8GB",
+   "Rank": 88,
+   "Benchmark": 58.4,
+   "Samples": 81080,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42962/Kingston-KHX1866C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FRK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x8GB",
+   "Rank": 88,
+   "Benchmark": 58.4,
+   "Samples": 81080,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42962/Kingston-KHX1866C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FWK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x8GB",
+   "Rank": 88,
+   "Benchmark": 58.4,
+   "Samples": 81080,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42962/Kingston-KHX1866C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2KIT4G3D1609DS1S00",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR3 1600 C9 2x4GB",
+   "Rank": 89,
+   "Benchmark": 55.3,
+   "Samples": 41683,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/50785/Crucial-BLS4G3D1609DS1S00-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS2CP4G3D1609DS1S00CEU",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport DDR3 1600 C9 2x4GB",
+   "Rank": 89,
+   "Benchmark": 55.3,
+   "Samples": 41683,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/50785/Crucial-BLS4G3D1609DS1S00-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x8GB",
+   "Rank": 90,
+   "Benchmark": 55,
+   "Samples": 66820,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42910/Kingston-KHX1600C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FBK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x8GB",
+   "Rank": 90,
+   "Benchmark": 55,
+   "Samples": 66820,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42910/Kingston-KHX1600C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FRK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x8GB",
+   "Rank": 90,
+   "Benchmark": 55,
+   "Samples": 66820,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42910/Kingston-KHX1600C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FWK2/16",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x8GB",
+   "Rank": 90,
+   "Benchmark": 55,
+   "Samples": 66820,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42910/Kingston-KHX1600C10D38G-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-14900CL10D-16GBXL",
+   "Brand": "G.SKILL",
+   "Model": "RipjawsX DDR3 1866 C10 2x8GB",
+   "Rank": 91,
+   "Benchmark": 52.8,
+   "Samples": 8391,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89210/GSKILL-F3-14900CL10-8GBXL-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-12800CL9D-8GBXL",
+   "Brand": "G.SKILL",
+   "Model": "RipjawsX DDR3 1600 C9 2x4GB",
+   "Rank": 92,
+   "Benchmark": 52.4,
+   "Samples": 43547,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89321/GSKILL-F3-12800CL9-4GBXL-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-12800CL10Q-32GBXL",
+   "Brand": "G.SKILL",
+   "Model": "RipjawsX DDR3 1600 C10 4x8GB",
+   "Rank": 93,
+   "Benchmark": 51.9,
+   "Samples": 3286,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/90320/GSKILL-F3-12800CL10-8GBXL-4x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x4GB",
+   "Rank": 94,
+   "Benchmark": 51.8,
+   "Samples": 17784,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42917/Kingston-KHX1600C10D38G-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FBK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x4GB",
+   "Rank": 94,
+   "Benchmark": 51.8,
+   "Samples": 17784,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42917/Kingston-KHX1600C10D38G-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FRK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x4GB",
+   "Rank": 94,
+   "Benchmark": 51.8,
+   "Samples": 17784,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42917/Kingston-KHX1600C10D38G-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C10FWK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1600 C10 2x4GB",
+   "Rank": 94,
+   "Benchmark": 51.8,
+   "Samples": 17784,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/42917/Kingston-KHX1600C10D38G-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX316C9SRK2/8",
+   "Brand": "HyperX",
+   "Model": "Savage DDR3 1600 C9 2x4GB",
+   "Rank": 95,
+   "Benchmark": 50.9,
+   "Samples": 69946,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/43139/Kingston-KHX1600C9D34GX-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x4GB",
+   "Rank": 96,
+   "Benchmark": 50,
+   "Samples": 32709,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR3-1866-C10-2x4GB/Rating/3588"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FBK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x4GB",
+   "Rank": 96,
+   "Benchmark": 50,
+   "Samples": 32709,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR3-1866-C10-2x4GB/Rating/3588"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FRK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x4GB",
+   "Rank": 96,
+   "Benchmark": 50,
+   "Samples": 32709,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR3-1866-C10-2x4GB/Rating/3588"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX318C10FWK2/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR3 1866 C10 2x4GB",
+   "Rank": 96,
+   "Benchmark": 50,
+   "Samples": 32709,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR3-1866-C10-2x4GB/Rating/3588"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMX8GX3M2A1600C9",
+   "Brand": "Corsair",
+   "Model": "XMS3 DDR3 1600 C9 2x4GB",
+   "Rank": 97,
+   "Benchmark": 49.9,
+   "Samples": 8912,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89663/Corsair-XMS3-CMX8GX3M2A1600C9-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-12800CL10D-16GBXL",
+   "Brand": "G.SKILL",
+   "Model": "RipjawsX DDR3 1600 C10 2x8GB",
+   "Rank": 98,
+   "Benchmark": 49.2,
+   "Samples": 23813,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89329/GSKILL-F3-12800CL10-8GBXL-2x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMZ8GX3M2A1600C9",
+   "Brand": "Corsair",
+   "Model": "Vengeance DDR3 1600 C9 2x4GB",
+   "Rank": 99,
+   "Benchmark": 48.6,
+   "Samples": 63642,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89203/Corsair-Vengeance-CMZ8GX3M2A1600C9-2x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS8G4D26BFSB",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2666 C16 1x8GB",
+   "Rank": 100,
+   "Benchmark": 46.7,
+   "Samples": 1324,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/321149/Crucial-BLS8G4D26BFSC16FBD2-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS8G4D26BFSC",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2666 C16 1x8GB",
+   "Rank": 100,
+   "Benchmark": 46.7,
+   "Samples": 1324,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/321149/Crucial-BLS8G4D26BFSC16FBD2-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS8G4D26BFSE",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2666 C16 1x8GB",
+   "Rank": 100,
+   "Benchmark": 46.7,
+   "Samples": 1324,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/321149/Crucial-BLS8G4D26BFSC16FBD2-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "BLS8G4D240FSB",
+   "Brand": "Crucial",
+   "Model": "Ballistix Sport LT DDR4 2400 C16 1x8GB",
+   "Rank": 101,
+   "Benchmark": 42.6,
+   "Samples": 17581,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/142440/Crucial-BLS8G4D240FSB16FBD-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CT8G4DFD824A",
+   "Brand": "Crucial",
+   "Model": "UDIMM DDR4 2400 C16 1x8GB",
+   "Rank": 102,
+   "Benchmark": 41.7,
+   "Samples": 3406,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/358525/Crucial-CT8G4DFD824AC16FHP-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CT16G4DFD824A",
+   "Brand": "Crucial",
+   "Model": "UDIMM DDR4 2400 C16 1x16GB",
+   "Rank": 103,
+   "Benchmark": 41.2,
+   "Samples": 2085,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/228105/Crucial-CT16G4DFD824AC16FAD-1x16GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M1A2400C16",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 1x8GB",
+   "Rank": 104,
+   "Benchmark": 41,
+   "Samples": 40231,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C16-1x8GB/Rating/3610"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M1A2400C16R",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C16 1x8GB",
+   "Rank": 104,
+   "Benchmark": 41,
+   "Samples": 40231,
+   "URL": "https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-2400-C16-1x8GB/Rating/3610"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "HX421C14FB/8",
+   "Brand": "HyperX",
+   "Model": "Fury DDR4 2133 C14 1x8GB",
+   "Rank": 105,
+   "Benchmark": 39.8,
+   "Samples": 13636,
+   "URL": "https://ram.userbenchmark.com/HyperX-Fury-DDR4-2133-C14-1x8GB/Rating/3555"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK4GX4M1A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 1x4GB",
+   "Rank": 106,
+   "Benchmark": 38.8,
+   "Samples": 800,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/97522/Corsair-Vengeance-LPX-CMK4GX4M1A2400C14-1x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMK8GX4M1A2400C14",
+   "Brand": "Corsair",
+   "Model": "Vengeance LPX DDR4 2400 C14 1x8GB",
+   "Rank": 107,
+   "Benchmark": 38.7,
+   "Samples": 15988,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89446/Corsair-Vengeance-LPX-CMK8GX4M1A2400C14-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CT4G4DFS824A",
+   "Brand": "Crucial",
+   "Model": "UDIMM DDR4 2400 C17 1x4GB",
+   "Rank": 108,
+   "Benchmark": 38.3,
+   "Samples": 4409,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/372497/Crucial-CT4G4DFS824AC8FHP-1x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F4-2133C15S-4GNT",
+   "Brand": "G.SKILL",
+   "Model": "Value DDR4 2133 C15 1x4GB",
+   "Rank": 109,
+   "Benchmark": 37.6,
+   "Samples": 520,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/109263/GSKILL-F4-2133C15-4GNT-1x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMV4GX4M1A2133C15",
+   "Brand": "Corsair",
+   "Model": "ValueSelect DDR4 2133 C15 1x4GB",
+   "Rank": 110,
+   "Benchmark": 37.3,
+   "Samples": 1147,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/96727/Corsair-ValueSelect-CMV4GX4M1A2133C15-1x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "CMZ8GX3M1A1600C10",
+   "Brand": "Corsair",
+   "Model": "Vengeance DDR3 1600 C10 1x8GB",
+   "Rank": 111,
+   "Benchmark": 30.5,
+   "Samples": 10040,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89201/Corsair-Vengeance-CMZ8GX3M1A1600C10-1x8GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-12800CL9S-4GBRL",
+   "Brand": "G.SKILL",
+   "Model": "Ripjaws DDR3 1600 C9 1x4GB",
+   "Rank": 112,
+   "Benchmark": 29.3,
+   "Samples": 750,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/90810/GSKILL-F3-12800CL9-4GBRL-1x4GB"
+ },
+ {
+   "Type": "RAM",
+   "Part Number": "F3-12800CL10S-8GBXL",
+   "Brand": "G.SKILL",
+   "Model": "RipjawsX DDR3 1600 C10 1x8GB",
+   "Rank": 113,
+   "Benchmark": 27.9,
+   "Samples": 4167,
+   "URL": "https://ram.userbenchmark.com/SpeedTest/89412/GSKILL-F3-12800CL10-8GBXL-1x8GB"
+ }
+]

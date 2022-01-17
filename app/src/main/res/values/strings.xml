@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZavrsniRad</string>
+    <string name="komponenta">Odaberite željenu komponentu: </string>
+    <string name="procesor">Procesor: </string>
+    <string name="proizvodac">Proizvođač: </string>
+    <string name="proizvod">Proizvod </string>
+    <string name="model">Model: </string>
+    <string name="specifikacije">Potpune specifikacije: </string>
+    <string name="domacaPonuda">Ponuda na domaćem tržištu </string>
+    <string name="jeftinije">Jeftinije.hr</string>
+    <string name="nabava">Nabava.net</string>
+    <string name="favorit">Dodaj u favorite</string>
+    <string name="favoriti">Lista omiljenih komponenata:</string>
+    <string name="listaFavorita">Favoriti</string>
+</resources>

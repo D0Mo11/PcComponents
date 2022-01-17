@@ -1,0 +1,153 @@
+[
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "SuperNOVA 1600 P2 Fully Modular",
+   "Rank": 1,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.evga.com/products/product.aspx?pn=220-p2-1600-x1"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "AX1200i Series Fully Modular",
+   "Rank": 2,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/axi-series-config/p/CP-9020008-NA"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "FSP Group",
+   "Model": "AURUM PT Fully Modular 1200W",
+   "Rank": 3,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.fsplifestyle.com/PROP162000377/"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Thermaltake",
+   "Model": "SMART M Semi Modular 650W",
+   "Rank": 4,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.thermaltake.com/smart-m-650w-bronze.html"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "SuperNOVA 850 P2 Fully Modular",
+   "Rank": 5,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.evga.com/products/product.aspx?pn=220-p2-0850-x1"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "SuperNOVA 850 G2 Fully Modular",
+   "Rank": 6,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://eu.evga.com/products/product.aspx?pn=220-G2-0850-X2"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "Supernova 650 P2",
+   "Rank": 7,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://eu.evga.com/products/product.aspx?pn=220-P2-0650-X2"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "SilverStone Technology",
+   "Model": "SFX-L Fully Modular 500W",
+   "Rank": 8,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.silverstonetek.com/product.php?pid=527"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "750 GQ Semi Modular",
+   "Rank": 9,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.evga.com/products/Product.aspx?pn=210-GQ-0750-V1"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "ROSEWILL Gaming",
+   "Model": "PHOTON 750W Fully Modular",
+   "Rank": 10,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://pangoly.com/en/review/rosewill-photon-750"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "EVGA",
+   "Model": "SuperNOVA 550 G3",
+   "Rank": 11,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.evga.com/products/product.aspx?pn=220-G3-0550-Y1"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "CX750M Semi Modular",
+   "Rank": 12,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/cxm-series-2015-config/p/CP-9020061-NA"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Thermaltake",
+   "Model": "Smart BX1 RGB 750W",
+   "Rank": 13,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://uk.thermaltake.com/smart-bx1-rgb-750w-230v.html"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "CX650M Semi Modular",
+   "Rank": 14,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/cxm-series-2015-config/p/CP-9020103-NA"
+ },
+ {
+   "Type": "PSU",
+   "Part Number": "",
+   "Brand": "Corsair",
+   "Model": "CX450M Semi Modular",
+   "Rank": 15,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/cxm-series-2015-config/p/CP-9020101-NA"
+ }
+ ]
+ 

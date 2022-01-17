@@ -1,0 +1,153 @@
+[
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Asus ROG",
+   "Model": "Maximus XII Extreme",
+   "Rank": 1,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-extreme-model/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "MSI",
+   "Model": "MPG Z490 Gaming Carbon WiFi",
+   "Rank": 2,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.msi.com/Motherboard/MPG-Z490-GAMING-CARBON-WIFI/Specification"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "MSI",
+   "Model": "MAG B460M Mortar WiFi",
+   "Rank": 3,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.msi.com/Motherboard/MAG-B460M-MORTAR-WIFI/Specification"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "ASRock",
+   "Model": "B460 Steel Legend",
+   "Rank": 4,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.asrock.com/mb/Intel/B460%20Steel%20Legend/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Gigabyte",
+   "Model": "Z390 Aorus Ultra",
+   "Rank": 5,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.gigabyte.com/Motherboard/Z390-AORUS-ULTRA-rev-10#kf"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Asus ROG",
+   "Model": "Strix Z390-I Gaming",
+   "Rank": 6,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z390-i-gaming-model/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Asus ROG",
+   "Model": "Crosshair VIII Dark Hero",
+   "Rank": 7,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-viii-dark-hero-model/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "MSI",
+   "Model": "MPG X570 Gaming Pro Carbon WiFi",
+   "Rank": 8,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.msi.com/Motherboard/MPG-X570-GAMING-PRO-CARBON-WIFI"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Asus ROG",
+   "Model": "Strix B550-E Gaming",
+   "Rank": 9,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-e-gaming-model/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "MSI",
+   "Model": "MAG B550M Mortar",
+   "Rank": 10,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.msi.com/Motherboard/MAG-B550M-MORTAR"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "ASRock",
+   "Model": "A520M ITX/ac",
+   "Rank": 11,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.asrock.com/mb/AMD/A520M-ITXac/index.asp"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Gigabyte",
+   "Model": "A520 Aorus Elite",
+   "Rank": 12,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.gigabyte.com/Motherboard/A520-AORUS-ELITE-rev-10#kf"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "MSI",
+   "Model": "MEG Z490 Godlike",
+   "Rank": 13,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.msi.com/Motherboard/MEG-Z490-GODLIKE"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "Asus",
+   "Model": "TUF Gaming B550M-PLUS",
+   "Rank": 14,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://www.asus.com/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS/"
+ },
+ {
+   "Type": "Motherboard",
+   "Part Number": "",
+   "Brand": "NZXT",
+   "Model": "N7 B550",
+   "Rank": 15,
+   "Benchmark": 230,
+   "Samples": 51100,
+   "URL": "https://nzxt.com/product/n7-b550"
+ }
+ ]
+ 
